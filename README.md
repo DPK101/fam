@@ -3,8 +3,8 @@
 It's a small angular 6 thumbnail gallery application.
 
 JS libraries used
-> Bootstrap4
+> Bootstrap4 and
 > Lightbox2
 
 CSS libraries used
->font-awesome5
+> font-awesome5
