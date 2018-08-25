@@ -1,5 +1,4 @@
-# fam
-Family
+# fam - Family
 
 It's a small angular 6 thumbnail gallery application.
 
